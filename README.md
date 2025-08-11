@@ -76,4 +76,7 @@ The dashboard automates the process of combining multiple Excel sheets/files, tr
 
 
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](dashboard_img.png)
 
